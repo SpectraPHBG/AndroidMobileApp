@@ -1,0 +1,12 @@
+C:\Users\SpectraPH\source\repos\BankApi\Data Layer\bin\Debug\Data Layer.dll.config
+C:\Users\SpectraPH\source\repos\BankApi\Data Layer\bin\Debug\Data Layer.dll
+C:\Users\SpectraPH\source\repos\BankApi\Data Layer\bin\Debug\Data Layer.pdb
+C:\Users\SpectraPH\source\repos\BankApi\Data Layer\bin\Debug\EntityFramework.dll
+C:\Users\SpectraPH\source\repos\BankApi\Data Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SpectraPH\source\repos\BankApi\Data Layer\bin\Debug\EntityFramework.xml
+C:\Users\SpectraPH\source\repos\BankApi\Data Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SpectraPH\source\repos\BankApi\Data Layer\obj\Debug\Data Layer.csproj.CoreCompileInputs.cache
+C:\Users\SpectraPH\source\repos\BankApi\Data Layer\obj\Debug\Data Layer.csproj.CopyComplete
+C:\Users\SpectraPH\source\repos\BankApi\Data Layer\obj\Debug\Data Layer.dll
+C:\Users\SpectraPH\source\repos\BankApi\Data Layer\obj\Debug\Data Layer.pdb
+C:\Users\SpectraPH\source\repos\BankApi\Data Layer\obj\Debug\Data Layer.csprojAssemblyReference.cache

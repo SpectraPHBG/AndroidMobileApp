@@ -1,0 +1,15 @@
+C:\Users\SpectraPH\source\repos\BankApi\RepositoryLayer\bin\Debug\RepositoryLayer.dll.config
+C:\Users\SpectraPH\source\repos\BankApi\RepositoryLayer\bin\Debug\RepositoryLayer.dll
+C:\Users\SpectraPH\source\repos\BankApi\RepositoryLayer\bin\Debug\RepositoryLayer.pdb
+C:\Users\SpectraPH\source\repos\BankApi\RepositoryLayer\bin\Debug\Data Layer.dll
+C:\Users\SpectraPH\source\repos\BankApi\RepositoryLayer\bin\Debug\EntityFramework.dll
+C:\Users\SpectraPH\source\repos\BankApi\RepositoryLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SpectraPH\source\repos\BankApi\RepositoryLayer\bin\Debug\Data Layer.pdb
+C:\Users\SpectraPH\source\repos\BankApi\RepositoryLayer\bin\Debug\Data Layer.dll.config
+C:\Users\SpectraPH\source\repos\BankApi\RepositoryLayer\bin\Debug\EntityFramework.xml
+C:\Users\SpectraPH\source\repos\BankApi\RepositoryLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SpectraPH\source\repos\BankApi\RepositoryLayer\obj\Debug\RepositoryLayer.csprojAssemblyReference.cache
+C:\Users\SpectraPH\source\repos\BankApi\RepositoryLayer\obj\Debug\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\SpectraPH\source\repos\BankApi\RepositoryLayer\obj\Debug\RepositoryLayer.csproj.CopyComplete
+C:\Users\SpectraPH\source\repos\BankApi\RepositoryLayer\obj\Debug\RepositoryLayer.dll
+C:\Users\SpectraPH\source\repos\BankApi\RepositoryLayer\obj\Debug\RepositoryLayer.pdb

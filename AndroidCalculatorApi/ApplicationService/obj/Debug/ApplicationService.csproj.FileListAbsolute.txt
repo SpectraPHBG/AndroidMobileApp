@@ -1,0 +1,26 @@
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\ApplicationService.dll.config
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\ApplicationService.dll
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\ApplicationService.pdb
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\Data Layer.dll
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\EntityFramework.dll
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\RepositoryLayer.dll
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\Data Layer.pdb
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\Data Layer.dll.config
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\RepositoryLayer.pdb
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\RepositoryLayer.dll.config
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\EntityFramework.xml
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\obj\Debug\ApplicationService.csprojAssemblyReference.cache
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\obj\Debug\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\obj\Debug\ApplicationService.csproj.CopyComplete
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\obj\Debug\ApplicationService.dll
+C:\Users\SpectraPH\source\repos\BankApi\ApplicationService\obj\Debug\ApplicationService.pdb
